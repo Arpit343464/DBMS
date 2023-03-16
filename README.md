@@ -1,2 +1,2 @@
-<h1> Online Retail Web Application </h1>
-<h3> DBMS Project </h3>
+<h1> DBMS Project </h1>
+<h3> Online Retail Web Application </h3>
